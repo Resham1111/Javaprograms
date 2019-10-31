@@ -1,4 +1,4 @@
-package com.typecasting;
+package com.array;
 
 public class Demo9 {
 
