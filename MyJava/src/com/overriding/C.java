@@ -6,8 +6,7 @@ public class C extends B{
 int k=30;
 void display()
 {
-System.out.println(i);
-System.out.println(j);
+super.display();
 System.out.println(k);
 
 
