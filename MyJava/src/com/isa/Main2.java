@@ -1,14 +1,8 @@
-package com.constructor;
+package com.isa;
 
-public class p3 {
-	int i;
-	p3()
-	{
-		i=10;
-	}
+public class Main2 {
 
 	public static void main(String[] args) {
-			
 		// TODO Auto-generated method stub
 
 	}

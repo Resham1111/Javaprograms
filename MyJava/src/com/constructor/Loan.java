@@ -16,7 +16,7 @@ public class Loan {
 		
 	}
 	
-	Loan(String name,String loanID,)
+	Loan(String name,String loanID)
 	{
 		
 	}
