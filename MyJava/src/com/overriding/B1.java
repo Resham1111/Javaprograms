@@ -3,7 +3,7 @@ package com.overriding;
 public class B extends A{
 	void test()
 	{
-		sout
+
 	}
 	
 

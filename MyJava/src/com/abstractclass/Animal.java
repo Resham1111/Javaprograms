@@ -1,6 +1,6 @@
 package com.abstractclass;
 
-abstract 01public class Animal {
+abstract public class Animal {
 	double height;
 	double weight;
 	 Animal() {
@@ -12,6 +12,5 @@ abstract 01public class Animal {
 		this.weight = weight;
 	}
 	
-
 	abstract void talk();
 }
