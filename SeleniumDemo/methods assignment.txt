@@ -78,10 +78,10 @@ Returns: An option interface
 Method name: findElement()
 purpose : find web elements in the web page
 Returns: WebElement
-Argument:String
+Argument:By class 
 
 11.
 Method name: findElements()
 purpose: used to find web elements.
 Returns: List<WebElement>
-Argument:String
+Argument:By class
