@@ -73,3 +73,15 @@ Method Name: manage()
 Syntax: WebDriver.Options manage()
 Purpose: Gets the Option interface
 Returns: An option interface
+
+10.
+Method name: findElement()
+purpose : find web elements in the web page
+Returns: WebElement
+Argument:String
+
+11.
+Method name: findElements()
+purpose: used to find web elements.
+Returns: List<WebElement>
+Argument:String
